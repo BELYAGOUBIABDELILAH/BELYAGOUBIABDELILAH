@@ -33,19 +33,7 @@ With hands-on experience in building **web applications** and developing **machi
 
 ---
 
-## 📂 Featured Projects
 
-### 🔹 Medical Prediction with AI (Master 1)
-Built an intelligent medical diagnostic assistant using **machine learning**.  
-Performed data analysis and optimized performance with scientific validation.  
-**Tech**: Python, Scikit-learn, Keras  
-
-### 🔹 Stock Management Web App (Bachelor Project)
-Developed a full web solution for SMEs to manage inventories with automation.  
-Features: secure authentication, modern interface, real-time reporting.  
-**Tech**: PHP, MySQL, JavaScript  
-
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BELYAGOUBIABDELILAH&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
