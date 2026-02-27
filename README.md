@@ -5,11 +5,11 @@
 
 ### 🏛️ Education
 - **Master’s in Networks, Systems and Information Security** (2024 – 2026)
-- **Computer Science Teacher** | Middle School
+
 
 ### 🛠️ Technical Stack
 - **Languages:** Python, Java, JavaScript, PHP
-- **Backend:** PostgreSQL, MySQL, Supabase, Firebase
+- **Backend:**  MySQL, Supabase, Firebase
 - **Frontend:** React, Tailwind CSS
 - **Interests:** Cybersecurity, AI-driven Development, UX/UI Design
 
