@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:belyagoubiabdillah@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BELYAGOUBIABDELILAH)
-[![Profile Views](https://visitcount.itsvg.in/api?id=BELYAGOUBIABDELILAH&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=BELYAGOUBIABDELILAH&icon=0&color=0)]([https://visitcount.itsvg.in](https://github.com/BELYAGOUBIABDELILAH))
 
 </div>
 
