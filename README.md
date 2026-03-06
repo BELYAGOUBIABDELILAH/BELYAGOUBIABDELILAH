@@ -45,15 +45,7 @@ With hands-on experience building web applications and developing machine learni
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BELYAGOUBIABDELILAH&theme=merko&hide_border=true&layout=compact&count_private=false)
-
-</div>
 
 ---
 
