@@ -12,12 +12,6 @@
 
 ---
 
-## About Me
-
-I'm passionate about **Artificial Intelligence**, **Software Development**, and **Cybersecurity**.
-With hands-on experience building web applications and developing machine learning systems, I enjoy contributing to innovative projects and exploring emerging technologies.
-
-- 🔭 Currently focused on my master's research in **network security & AI**
 - 🌱 Always learning — always building
 - 💡 Open to collaboration on interesting open-source projects
 
