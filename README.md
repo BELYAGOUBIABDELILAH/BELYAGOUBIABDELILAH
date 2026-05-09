@@ -1,6 +1,6 @@
 <div align="center">
 
-# Belyagoubi Mohammed Abdelilah
+# BELYAGOUBI Mohammed Abdelilah
 
 🎓 Master's Student in Computer Science — *Networks, Systems & Information Security*
 📍 Sidi Bel Abbès, Algeria · 2024–2026
