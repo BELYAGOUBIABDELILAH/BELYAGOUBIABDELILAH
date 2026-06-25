@@ -122,13 +122,15 @@ Connect patients with doctors, pharmacies on duty, and blood donors — in real 
 ![Anthropic MCP](https://img.shields.io/badge/MCP_API-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+---
 
-
-## 🏆 GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=BELYAGOUBIABDELILAH&theme=tokyonight&no-frame=true&margin-w=10&column=6)
+[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-0969DA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BELYAGOUBIABDELILAH?tab=achievements)
+[![YOLO](https://img.shields.io/badge/YOLO-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BELYAGOUBIABDELILAH?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Quickdraw-F7A800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BELYAGOUBIABDELILAH?tab=achievements)
 
 </div>
 
