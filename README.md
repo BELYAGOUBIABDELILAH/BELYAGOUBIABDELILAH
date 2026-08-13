@@ -34,7 +34,7 @@ I work across the stack and take things from idea to production.
 
 **[WC26 Simulator](https://github.com/BELYAGOUBIABDELILAH/wc26-sim)** — ML engine predicting World Cup 2026 outcomes. Gradient Boosting + 5,000-run Monte Carlo simulation trained on 20+ years of football data. `Python` `Scikit-learn`
 
-**[Open Prompt Library](https://github.com/BELYAGOUBIABDELILAH/open-prompt-library)** — 3,300+ production-ready prompts for ChatGPT, Claude & Gemini. Coding, writing, marketing, data analysis. Structured, searchable, open source. `JavaScript`
+**[Awesome Prompt Library](https://github.com/BELYAGOUBIABDELILAH/awesome-prompt-library)** — 3,300+ production-ready prompts for ChatGPT, Claude & Gemini. Coding, writing, marketing, data analysis. Structured, searchable, open source. `JavaScript`
 
 **[Awesome Repos](https://github.com/BELYAGOUBIABDELILAH/awsome-repos)** — Daily archive of GitHub Trending repositories, browsable by date, language, and topic. `JavaScript`
 
