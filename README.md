@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:1f6feb&height=140&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+ML+Practitioner+%7C+Data+Analyst;Building+real+products+from+research;Health+Tech+%C2%B7+AI+Systems+%C2%B7+Cybersecurity)](https://github.com/BELYAGOUBIABDELILAH)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer+%7C+ML+Researcher+%7C+Data+Analyst;Building+real+products+from+research;Health+Tech+%C2%B7+AI+Systems+%C2%B7+Cybersecurity)](https://github.com/BELYAGOUBIABDELILAH)
 
 [![Email](https://img.shields.io/badge/Email-belyabdelilah%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:belyabdelilah@gmail.com)
 [![Substack](https://img.shields.io/badge/Substack-Blog-FF6719?style=flat-square&logo=substack&logoColor=white)](https://axiomrepo.substack.com)
